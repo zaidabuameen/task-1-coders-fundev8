@@ -1,0 +1,97 @@
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\bin\Debug\net9.0\appsettings.json
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\bin\Debug\net9.0\js learn.staticwebassets.runtime.json
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\bin\Debug\net9.0\js learn.staticwebassets.endpoints.json
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\bin\Debug\net9.0\js learn.exe
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\bin\Debug\net9.0\js learn.deps.json
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\bin\Debug\net9.0\js learn.runtimeconfig.json
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\bin\Debug\net9.0\js learn.dll
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\bin\Debug\net9.0\js learn.pdb
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\js learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\js learn.AssemblyInfoInputs.cache
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\js learn.AssemblyInfo.cs
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\js learn.csproj.CoreCompileInputs.cache
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\js learn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\js learn.RazorAssemblyInfo.cache
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\js learn.RazorAssemblyInfo.cs
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\scopedcss\bundle\js learn.styles.css
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\scopedcss\projectbundle\js learn.bundle.scp.css
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\9x66h9vkjg-61n19gt1b8.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\85truj1umy-xtxxf3hu2r.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\dmdh6ebx2l-bqjiyaj88i.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\2dexvx47w2-c2jlpeoesf.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\4ofxzg0uf1-erw9l3u2r3.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\3nj2fajswj-aexeepp0ev.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\5ux6ohp680-d7shbmvgxk.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\7c9pdiqhv9-ausgxo2sd3.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\sd1mx3zbdd-k8d9w2qqmf.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\c53z0w5q0c-cosvhxvwiu.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\5lk9yxbz4q-ub07r2b239.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\sxe53h9168-fvhpjtyr6v.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\8l2b9l2sfg-b7pk76d08c.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\vqi9qerq28-fsbi9cje9m.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\iy4a5yfqo4-rzd6atqjts.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\u4tisgjv03-ee0r1s7dh0.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\ybtbm682b6-dxx9fxp4il.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\zy9l6vi14s-jd9uben2k1.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\ndj6bz72m7-khv3u5hwcm.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\pjooheht1m-r4e9w2rdcm.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\r3el03crag-lcd1t2u6c8.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\0brz8v0o7z-c2oey78nd0.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\3ebdp5nxqt-tdbxkamptv.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\fa77nhwh9g-j5mq2jizvt.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\lvw5lhyn3l-06098lyss8.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\0s6zrl36s3-nvvlpmu67g.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\b8o4irksgj-s35ty4nyc5.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\wxotpw0rey-pj5nd1wqec.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\a80t3xmalg-46ein0sx1k.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\noukx66nuc-v0zj4ognzu.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\wrj6865de7-37tfw0ft22.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\8to7rnk7ft-hrwsygsryq.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\5no5q4hfrg-pk9g2wxc8p.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\m6gdtke2q4-ft3s53vfgj.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\kcnehx1y0l-6cfz1n2cew.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\vcqj81b650-6pdc2jztkx.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\741toz7c9x-493y06b0oq.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\2amn7n6vge-iovd86k7lj.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\rcfes4zafv-vr1egmr9el.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\77zo560obm-kbrnm935zg.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\us3lkd1ial-jj8uyg4cgr.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\m8m5vw61sy-y7v9cxd14o.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\4nl6edsgat-notf2xhcfb.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\dzenbhwp8h-h1s4sie4z3.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\yrus1qxmcq-63fj8s7r0e.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\zg0l5r020o-0j3bgjxly4.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\jjkvie0ik3-47otxtyo56.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\4jw4nuzsfk-4v8eqarkd7.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\xmgmun3c0j-356vix0kms.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\z5wx5h167f-83jwlth58m.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\fjj6zka2gd-mrlpezrjn3.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\fxgcu1ofor-lzl9nlhx6b.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\q84klokewy-ag7o75518u.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\lbo13k34t0-x0q3zqp4vz.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\etkm4ezemp-0i3buxo5is.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\p5y2uju7cx-o1o13a6vjx.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\n3z4ct11v2-ttgo8qnofa.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\1roqlsq2jk-2z0ns9nrw6.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\d1i3vycs5w-muycvpuwrr.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\kfd0cald2y-87fc7y1x7t.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\edacflgp6r-mlv21k5csn.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\9uo7o4coa4-z80eqfjl04.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\hzi7z8liax-z80eqfjl04.gz
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\js learn.dll
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\refint\js learn.dll
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\js learn.pdb
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\js learn.genruntimeconfig.cache
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\ref\js learn.dll
+C:\Users\wmutl\Desktop\fundev\js learn\js learn\obj\Debug\net9.0\compressed\mfozgsyr78-r6amukmkcy.gz

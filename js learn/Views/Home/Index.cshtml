@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<hr>
+<img class="img1" src="~/images/regester pic.jpeg" alt="REGESTER PHOTO" width="200" />
+<h1 class="hd1">Regester Here:</h1>
+
+<form>
+
+    <label for="fname">First Name:</label><br>
+    <input onmouseover="Fun2()" type="text" id="fname" name="fname">
+    <br>
+    <label for="lname">Last Name:</label><br>
+    <input onmouseover="Fun2()" type="text" id="lname" name="lname">
+    <br>
+    <label for="email">Email:</label><br>
+    <input onmouseover="Fun2()" type="email" id="email" name="email">
+    <br>
+    <label for="password">Password:</label><br>
+    <input onmouseover="Fun2()" type="password" id="password" name="password">
+    <br>
+    <label for="city">ur city:</label><br>
+    <select onmouseover="Fun2()" id="city" name="city">
+        <option value="newyork">New York</option>
+        <option value="losangeles">Los Angeles</option>
+        <option value="chicago">Chicago</option>
+        <option value="houston">Houston</option>
+        <option value="miami">Miami</option>
+     </select>
+    <br>
+    <label for="radio1">Gender:</label><br>
+Male <input onmouseover="Fun2()" type="radio" id="radio1" name="gender">
+Female <input  onmouseover="Fun2()" type="radio" id="radio2" name="gender">
+<br>
+    <label for="checkbox1">your level of study : </label>
+    BA<input onmouseover="Fun2()" type="checkbox" id="checkbox1" name="level" value="BA">
+    MA<input onmouseover="Fun2()" type="checkbox" id="checkbox2" name="level" value="MA">
+    PHD<input onmouseover="Fun2()" type="checkbox" id="checkbox3" name="level" value="PHD">
+    <br>
+
+    </form>
+         <button onclick="fun1()"  type="submit" id="butt">save</button>
+
+<script>
+    function fun1(){
+    document.body.style.background="red";
+    }
+    function Fun2(){
+        alert("you are in input field");
+     }
+</script>
